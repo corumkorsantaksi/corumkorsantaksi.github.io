@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Çorum Korsan Taksi | Merzifon Havalimanı ve Hattuşa</title>
+  <link href="https://corumkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://corumkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://corumkorsantaksi.github.io/</id>
+  <updated>2026-11-19T00:28:04.758Z</updated>
+  <author><name>Çorum Korsan Taksi</name></author>
+  <entry>
+    <title>Çorum Korsan Taksi | Merzifon Havalimanı ve Hattuşa</title>
+    <link href="https://corumkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://corumkorsantaksi.github.io/</id>
+    <updated>2026-11-19T00:28:04.758Z</updated>
+    <summary>Çorum korsan taksi hattı: Merzifon Havalimanı merkezden 64 km, Hattuşa, Yazılıkaya ve Alacahöyük gezisi, İskilip, Osmancık, Sungurlu ve Kargı yolu. 7/24.</summary>
+  </entry>
+</feed>

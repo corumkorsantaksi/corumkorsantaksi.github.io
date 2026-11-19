@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corumkorsantaksi.github.io/sitemap.xml
